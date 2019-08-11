@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-# Google sheet URL
+## Google sheet URL
 
 `https://docs.google.com/spreadsheets/d/1fgK1HuqgKRQD6IxmDxKOWVwrWqT-kyvrrFtyXf-p6T4/edit#gid=0`
 
